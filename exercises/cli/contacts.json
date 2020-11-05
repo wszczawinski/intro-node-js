@@ -1,6 +1,16 @@
 {
-  "adfsadf asfdasdf": {
-    "firstName": "adfsadf",
+  "Stefan": {
+    "firstName": "Stefan",
+    "lastName": "asfdasdf",
+    "phoneNumber": "asfdsf"
+  },
+  "Bob": {
+    "firstName": "Bob",
+    "lastName": "asfdasdf",
+    "phoneNumber": "asfdsf"
+  },
+  "Dave": {
+    "firstName": "Dave",
     "lastName": "asfdasdf",
     "phoneNumber": "asfdsf"
   }
